@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👋 Hi, I'm Emmanuel Mathonsi
+
+  🌱  Beginner Software Developer
 
 
 ## 👨‍💻 About Me
