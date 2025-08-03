@@ -29,3 +29,8 @@ Air Traffic Service Assistant at the [South African Air Force](https://www.saair
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-mathonsi-300b33308/)  
 📧 Email: [07942jerry@gmail.com]
 
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RainDrops88&theme=default&show_icons=true&hide_border=true&count_private=true)
