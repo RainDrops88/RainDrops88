@@ -34,3 +34,5 @@ Air Traffic Service Assistant at the [South African Air Force](https://www.saair
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RainDrops88&theme=default&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Stats](https://streak-stats.demolab.com?user=RainDrops88&theme=default&hide_border=true)
